@@ -40,3 +40,39 @@ To continue developing the Attendance Buddy application, a goal of the design te
 To further understand and explore our groups design process and prototype outcome, please review our [Design Reflection](design_process.md) document. 
 
 ---
+
+## Deployment 
+
+To deploy both prototypes includes in this Design for Wellbeing Affective App assignment the user will require an MIT App Inventor Account. 
+
+Users can follow [this link](https://appinventor.mit.edu/) to the MIT App Inventor website to create an account. 
+
+Once an acount is created, the user will be able to import one or both of the .aia files to their personal MIT App Inventor account to view the backend development of the application. In addition, users will requireaccess to the MIT emulator to view the frontend of the application or access to an Android device. Further instructions to launch applications created in MIT App Inventor can be found [here](https://appinventor.mit.edu/explore/ai2/setup-emulator.html)
+
+---
+
+## Navigating the Repository
+
+### Attendance Buddy App
+
+![readme_gif1](Images/readme_gif1.gif)
+
+The first component of the assignment is to deliver an MIT App Inventor application consisting of an emotion-sensing machine learning library to promote the concept of personal wellbeing. 
+
+User's are able to navigate to the `attendancebuddy.aia` file and import it into their personal MIT App Inventor accounts to view the application. 
+
+Additionally, users can view the first prototype application by viewing the (Prototype 1 Directoy)(Prototype_1_Files)
+
+### Design Reflection 
+
+The second component of the assignment is to deliver a design reflection outling the design process, objective, evalaution, and future directions of the porject. 
+
+For user ease, this file can be viewed [here](design_process.md)
+
+### Demo Video
+
+![videogif2](Images/videogif2.gif)
+
+The repository contains the applications demo video to meet the third assignment deliverable. 
+
+---
