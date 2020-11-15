@@ -76,3 +76,13 @@ For user ease, this file can be viewed [here](design_process.md)
 The repository contains the applications demo video to meet the third assignment deliverable. 
 
 ---
+
+## File Contents 
+
+- [Design Reflection](design_process.md) 
+- [Attendance Buddy Application File](AttendanceBuddy.aia)
+- [Demo Video](AttendanceBuddy_DemoVideo.mov) 
+- [Prototype 1 Files](Prototype_1_Files) 
+- [Images](Images) 
+
+---
